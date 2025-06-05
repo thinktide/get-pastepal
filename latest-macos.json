@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "notes": "We've made some exciting updates to PastePal! Now, you can launch PastePal at system startup, customize shortcut hotkeys, and manage your storage settings more easily. We've also improved the app icon for a professional look, added a 'Confirm before Deletion' option, and fixed key bugs. Enjoy a smoother, more user-friendly experience!\n",
-  "pub_date": "2025-06-05T01:30:36Z",
+  "notes": "In this update, we've made PastePal even better for you! We've added the ability to launch at system startup, improved the app icon, added a customizable shortcut key, and made some improvements to the storage settings. We've also squashed a few bugs and added a simple drag-and-drop installer. Enjoy!\n",
+  "pub_date": "2025-06-05T01:46:40Z",
   "url": "https://github.com/thinktide/get-pastepal/releases/download/v1.0/PastePal-1.0.dmg"
 }
