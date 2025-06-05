@@ -1,6 +1,6 @@
 {
   "version": "1.0",
   "notes": "We've made PastePal even better! This update includes support for launching PastePal at system startup, a new settings screen on first launch, a drag-and-drop installer, improved storage settings, customizable hotkey, new storage management tools, an informative \"About PastePal\" section, a polished app icon, a native-style settings pane, ability to remove a clipboard card from history, and more. We've also squashed some key bugs. Enjoy!\n",
-  "pub_date": "2025-06-04T21:22:31Z",
+  "pub_date": "2025-06-05T01:27:04Z",
   "url": "https://github.com/thinktide/get-pastepal/releases/download/v1.0/PastePal-1.0.dmg"
 }
