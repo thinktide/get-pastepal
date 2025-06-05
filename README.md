@@ -1,19 +1,19 @@
 # PastePal
 
-**Your clipboard. Supercharged.**  
-PastePal lets you instantly recall, preview, and reuse everything you copy.
+### Your clipboard. Supercharged.
+*PastePal lets you instantly recall, preview, and reuse everything you copy.*
 
 ![PastePal Banner](path/to/your/screenshot.png) <!-- Replace with actual image path -->
 
 ## ✨ Features
 
-- 🚀 **Launch at login** — Automatically starts with your system to never miss a clipboard entry
-- ⌨️ **Customizable shortcut** — Quickly open PastePal with `⌘⇧V` or any shortcut you prefer
 - 📋 **Smart clipboard history** — Instantly view and reuse your most recent clipboard items
 - 🧠 **MIME-aware previews** — Detects and displays content types like images, text, links, and more
 - 🖼 **Drawer-style UI** — A fast, lightweight overlay that slides up from the bottom of your screen
 - 🔧 **Powerful storage management** — Fine-tune history limits, expiration, and clear specific ranges
 - 🗑 **Per-item deletion** — Remove any clipboard item directly from your history
+- ⌨️ **Customizable shortcut** — Quickly open PastePal with `⌘⇧V` or any shortcut you prefer
+
 
 ## 🖥 Installation
 
